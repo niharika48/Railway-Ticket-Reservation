@@ -4,22 +4,22 @@ background-color: #eef2f7;
 text-align: center; 
 } 
 h1 { 
-color: darkblue; 
+color: blue; 
 } 
 .container { 
 background-color: white; 
-width: 350px; 
+width: 355px; 
 margin: 40px auto; 
-padding: 25px; 
+padding: 28px; 
 border-radius: 10px; 
 } 
 input { 
-width: 90%; 
+width: 80%; 
 padding: 10px; 
 margin: 10px; 
 } 
 button { 
-background-color: green; 
+background-color: pink; 
 color: white; 
 padding: 10px 20px; 
 border: none; 
